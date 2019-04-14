@@ -12,5 +12,8 @@ git push origin --delete branchname ->to delete branch in remote.
 git merge
 git pull
 git push
+git revert
+git reset --hard  commit hash code
+
 
 
