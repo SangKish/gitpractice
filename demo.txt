@@ -4,4 +4,13 @@ git add
 git status
 git commit 
 git checkout -- filename
+git branch
+git branch branchname ->create a new branch
+git branch -d branch name -> delete a branch in local machine
+git branch -d -r 
+git push origin --delete branchname ->to delete branch in remote.
+git merge
+git pull
+git push
+
 
